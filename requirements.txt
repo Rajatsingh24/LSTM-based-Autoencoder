@@ -1,0 +1,11 @@
+pandas==2.2.2
+numpy==2.0.2
+<<<<<<< HEAD
+=======
+matplotlib==3.10.0
+>>>>>>> 0f1b551798e83326b79fb965a64927cbd7d89739
+torch==2.6
+gradio==5.23.3
+sklearn-pandas==2.2.0
+jsonpickle==4.0.5
+pickleshare==0.7.5
